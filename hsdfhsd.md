@@ -27,16 +27,36 @@ Jeg vil ha en **_kjæledyr_**.
 
 ---
  
-8. Inline kode – Skriv en setning som forklarer hva en HTML-tag gjør, og marker selve taggen med inline kode (f.eks. forklar <h1>).
-9. The <h1> to <h6> HTML elements represent six levels of section headings. 
+8. Inline kode – Skriv en setning som forklarer hva en HTML-tag gjør, og marker selve taggen med inline kode (f.eks. forklar `<h1>`).
+
+9. The `<h1>` to `<h6>` HTML elements represent six levels of section headings. 
 
 Gul — middels (7 oppgaver)
 
 1. Tabell – Lag en tabell som sammenligner tre programmeringsspråk (kolonner: Språk, Styrke, Svakhet).
 
+| Språk | Styrke | Svakhet |
+|-------|--------|---------|
+|python |lesebar | Ytelse  | 
+|HTML   |        |         | 
+|JAVAscr|        |         | 
+
 2. Kodeblokk med syntax highlighting – Sett inn et lite kodeeksempel (JavaScript eller Python) med riktig språk-tag, slik at det fargelegges korrekt.
+
+```python
+def hello(write ur name):
+    return f"Hello, {name}!"
+ 
+print(hello("world"))
+```
+
 3. Nøstet liste – Lag en liste over fagets moduler dette skoleåret med underpunkter for hver modul (f.eks. "HTML/CSS" → "Universell utforming", "Responsivt design").
+
+
 4. Sjekkliste – Lag en to-do-liste for uka med GitHub sine avhukbare bokser (- [ ] / - [x]), der minst to punkter er huket av.
+
 5. Sammensatt mini-README – Skriv en README for et fiktivt prosjekt med: tittel, kort beskrivelse, en nummerert installasjons-seksjon og en punktliste med funksjoner.
+
 6. Escape-tegn – Vis hvordan du skriver et bokstavelig stjernetegn eller en understrek uten at Markdown tolker det som formatering.
+
 7. Finn feilen – Læreren deler ut et Markdown-dokument med 5 bevisste feil (f.eks. glemt mellomrom etter #, feil antall stjerner, manglende linjeskift før liste). Finn og rett alle fem.
