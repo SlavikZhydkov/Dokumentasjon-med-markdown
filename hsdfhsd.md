@@ -22,6 +22,7 @@ Jeg vil ha en **_kjæledyr_**.
 ![dette er liknken til kult bilde](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.meme-arsenal.com%2Fmemes%2F5eac8b6f60a0bf8e8fb83368884d4df0.jpg&f=1&nofb=1&ipt=d6e11fe5935c85ca55848c635e1303f563d903db37020e9ec5f2b969cf000284)
 
 6. Sitat – Bruk et blokksitat til å sitere noen, f.eks. et kjent utsagn om koding eller teknologi.
+artem once said "I wanna eat"
 
 7. Skillelinje – Del et dokument i to seksjoner med en horisontal linje.
 
