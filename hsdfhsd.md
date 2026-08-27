@@ -94,3 +94,24 @@ Hvis jeg vil skrive et bokstavelig stjernetegn uten at Markdown tolker det som k
 På samme måte kan en understrek skrives som `\_ikke formatert\_`, som vises som: \_ikke formatert\_
 
 7. Finn feilen – Læreren deler ut et Markdown-dokument med 5 bevisste feil (f.eks. glemt mellomrom etter #, feil antall stjerner, manglende linjeskift før liste). Finn og rett alle fem.
+
+
+
+# Rød — avansert (6 oppgaver)
+
+## 1. Kollapsbar seksjon – Bruk HTML <details>/<summary> inni et Markdown-dokument for å lage en utvidbar "Vis svar"-seksjon.
+<details> <summary>Vis svar</summary>
+
+idk ka æ må skrive har 
+
+</details>
+
+## 2. Badges – Sett inn minst to badges fra Shields.io øverst i en README (f.eks. status og lisens).
+
+## 3. Fotnoter – Skriv en kort fagtekst med minst to fotnoter, forklart nederst i dokumentet.
+
+## 4. GFM vs. standard Markdown – Bruk minst to GitHub-spesifikke funksjoner utover grønt/gult nivå (f.eks. strikethrough, automatiske lenker, @-nevninger), og skriv 2–3 setninger som forklarer forskjellen på Markdown og GitHub Flavored Markdown.
+
+## 5. Egen mal – Se på Best-README-Template eller awesome-readme for inspirasjon, og design din egen README-mal med faste seksjoner (Om prosjektet, Kompetansemål, Kom i gang, Lisens) du kan gjenbruke resten av skoleåret.
+
+## 6. Kildekritikk – Se på 2–3 ekte README-filer fra awesome-readme, og skriv en kort vurdering (4–6 setninger) av hva som gjør dem gode eller dårlige som teknisk dokumentasjon. Hva ville du selv gjort annerledes?
