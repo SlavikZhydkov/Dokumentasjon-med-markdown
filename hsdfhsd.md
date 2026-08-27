@@ -52,12 +52,45 @@ print(hello("world"))
 ```
 
 3. Nøstet liste – Lag en liste over fagets moduler dette skoleåret med underpunkter for hver modul (f.eks. "HTML/CSS" → "Universell utforming", "Responsivt design").
+- HTML/CSS
+  - Universell utforming
+  - Responsivt design
+- JavaScript
+  - Variabler og datatyper
+  - Funksjoner og løkker
+- Databaser
+  - SQL-grunnleggende
+  - Design av tabeller
 
 
 4. Sjekkliste – Lag en to-do-liste for uka med GitHub sine avhukbare bokser (- [ ] / - [x]), der minst to punkter er huket av.
+- [x] Lese kapittel 3 i læreboka
+- [x] Levere ukeoppgave i Markdown
+- [ ] Øve på JavaScript-funksjoner
+- [ ] Forberede presentasjon til fredag
 
 5. Sammensatt mini-README – Skriv en README for et fiktivt prosjekt med: tittel, kort beskrivelse, en nummerert installasjons-seksjon og en punktliste med funksjoner.
+# VærNå
+ 
+Et enkelt fiktivt prosjekt som viser dagens vær for en valgt by, basert på et gratis vær-API.
+ 
+### Installasjon
+ 
+1. Klon repositoriet: `git clone https://github.com/eksempel/vaerna.git`
+2. Gå inn i mappen: `cd vaerna`
+3. Installer avhengigheter: `npm install`
+4. Start applikasjonen: `npm start`
+### Funksjoner
+ 
+- Viser temperatur og værforhold i sanntid
+- Søk på by eller postnummer
+- Varsel ved kraftig vær
+- Mørk og lys modus
 
 6. Escape-tegn – Vis hvordan du skriver et bokstavelig stjernetegn eller en understrek uten at Markdown tolker det som formatering.
+
+Hvis jeg vil skrive et bokstavelig stjernetegn uten at Markdown tolker det som kursiv eller fet skrift, kan jeg skrive `\*ikke kursiv\*`, som vises som: \*ikke kursiv\*
+ 
+På samme måte kan en understrek skrives som `\_ikke formatert\_`, som vises som: \_ikke formatert\_
 
 7. Finn feilen – Læreren deler ut et Markdown-dokument med 5 bevisste feil (f.eks. glemt mellomrom etter #, feil antall stjerner, manglende linjeskift før liste). Finn og rett alle fem.
