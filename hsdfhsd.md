@@ -112,6 +112,7 @@ idk ka æ må skrive har
 ![lisens](https://img.shields.io/badge/any%20text-you%20like-blue)
 
 ### 3. Fotnoter – Skriv en kort fagtekst med minst to fotnoter, forklart nederst i dokumentet.
+Markdown ble opprinnelig laget av John Gruber i 20041, og har siden blitt en de-facto-standard for lettvekts tekstformatering på nettet. GitHub sin utvidelse av Markdown, kjent som GFM, la til flere praktiske funksjoner som ikke fantes i originalspesifikasjonen2.
 
 ### 4. GFM vs. standard Markdown – Bruk minst to GitHub-spesifikke funksjoner utover grønt/gult nivå (f.eks. strikethrough, automatiske lenker, @-nevninger), og skriv 2–3 setninger som forklarer forskjellen på Markdown og GitHub Flavored Markdown.
 
