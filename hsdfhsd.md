@@ -117,6 +117,7 @@ Markdown ble opprinnelig laget av John Gruber i 2004[^1], og har siden blitt en 
 [^2]: іовпаловірларівлоа 
 ### 4. GFM vs. standard Markdown – Bruk minst to GitHub-spesifikke funksjoner utover grønt/gult nivå (f.eks. strikethrough, automatiske lenker, @-nevninger), og skriv 2–3 setninger som forklarer forskjellen på Markdown og GitHub Flavored Markdown.
 
+
 ### 5. Egen mal – Se på Best-README-Template eller awesome-readme for inspirasjon, og design din egen README-mal med faste seksjoner (Om prosjektet, Kompetansemål, Kom i gang, Lisens) du kan gjenbruke resten av skoleåret.
 
 ### 6. Kildekritikk – Se på 2–3 ekte README-filer fra awesome-readme, og skriv en kort vurdering (4–6 setninger) av hva som gjør dem gode eller dårlige som teknisk dokumentasjon. Hva ville du selv gjort annerledes?
